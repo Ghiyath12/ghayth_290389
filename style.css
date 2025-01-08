@@ -159,7 +159,7 @@ a {
         position: fixed;
         top: 70px;
         width: 100vw;
-        background: rgb(35, 29, 53);
+        background: #26302f;
         padding: 1rem 0;
         height: 100vh;
         z-index: 99;
@@ -289,8 +289,6 @@ section{
     padding: .2rem 1rem;
     
 }
-
-
 
 
 
